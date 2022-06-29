@@ -1,0 +1,14 @@
+<Bug>
+  <ID>356</ID>
+  <Title>Не работает кнопка 'Войти' на странице авторизации</Title>
+   <Steps>
+    <step_1>Ввести корректные логин и пароль в форме авторизации</step_1>
+    <step_2>Нажать кнопку 'Войти'</step_2>
+  </Steps>
+  <Expected_result>Открывается Личный Кабинет пользователя</Expected_result>
+  <Actual_result>После введения корректных данных в форме авторизации кнопка не становится активна</Actual_result>
+  <Environment>MacOS Monterey 12.4</Environment> 
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Summary>Послее введения корректных данных в форме авторизации кнопка 'Вход' не кликабельна</Summary>
+</Bug>
