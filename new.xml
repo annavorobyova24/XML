@@ -1,7 +1,6 @@
 <Person>
-   <name> Vorobyova Anna </name>
-   <age> 23</age> 
+   <name>Vorobyova Anna</name>
+   <age>23</age> 
    <animals>Two cats</animals>
    <salary>80000 rubles</salary>
 </Person>
-
